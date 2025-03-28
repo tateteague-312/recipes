@@ -2,6 +2,5 @@
 # avocado
 *avocado - 50 USD
 *lime
-*salt - 1 USD
+*salt
 New comment to open
-#bad change I do not want
